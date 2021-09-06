@@ -6,6 +6,6 @@
 Hi, I'm Rex, a software engineer
 I like write clean, maintainable, and testable code and provide reasonable test coverage using unit testing best practices.
 
-### Contact me
+### Contact
 
 Email: tsunejui@gmail.com
