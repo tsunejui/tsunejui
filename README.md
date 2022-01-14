@@ -9,5 +9,7 @@ I like write clean, maintainable, and testable code and provide reasonable test 
 ### Contact
 
 Email: tsunejui@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/tsungjui-wu-845965141/
+
 Twitter: https://twitter.com/tsunejui
