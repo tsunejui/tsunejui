@@ -6,6 +6,9 @@
 Hi, I'm Rex, a software engineer. 
 I like write clean, maintainable, and testable code and provide reasonable test coverage using unit testing best practices.
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=tsunejui&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Contact
 
 Email: tsunejui@gmail.com
