@@ -24,6 +24,8 @@ LinkedIn: https://www.linkedin.com/in/tsungjui-wu-845965141/
 
 Twitter: https://twitter.com/tsunejui
 
+Gists: https://gist.github.com/tsunejui
+
 ```
  ____                 ____  _  _    _             _
 |  _ \   ___ __  __  / ___|(_)| |_ | |__   _   _ | |__
